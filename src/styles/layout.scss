@@ -11,5 +11,12 @@
         margin-left: 16%;
         background-color:  #101218;
         min-height: 100vh;
+        background-image:url(../img/dots.svg);
+        display: grid;
+        position: relative;
+        .content{
+              margin: 5rem 10rem;
+        }
+
     }
 }
